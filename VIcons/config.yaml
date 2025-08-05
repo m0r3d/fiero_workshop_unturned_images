@@ -1,3 +1,3 @@
 # Use this in your UnturnedImages/config.yaml file
-- Id: "2643126431;27000-27031;27048-27063;27080-27107;27110-27117;27120-27127;27130-27137;27140-27147;27150-27157;27160-27167;27170-27177;27180-27187;27190-27197;28976-28998;49500-49511;53300-53368;53500-53528;53530-53601" # The ID of the override.
-  Repository: "https://cdn.jsdelivr.net/gh/SilKsPlugins/UnturnedIcons@images/modded/1645090733/vehicles/{ItemId}.png" # The repository of the override.
+- Id: "19300-19343" # The ID of the override.
+  Repository: "https://cdn.jsdelivr.net/gh/SilKsPlugins/UnturnedIcons@images/modded/3417764218/vehicles/{ItemId}.png" # The repository of the override.
